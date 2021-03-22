@@ -1,0 +1,4 @@
+search:
+  - action: find_and_text
+    locator: [id,'com.xueqiu.android:id/search_input_text']
+    content: "alibaba"
